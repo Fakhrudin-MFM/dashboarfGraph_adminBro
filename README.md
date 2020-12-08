@@ -6,4 +6,4 @@
 - запустив index.js (node src/index.js)
 Credentials входа в админку: "some@mail.com" и "123qwe"
 
-`авторизация и график - <https://youtu.be/Rs_OUskkmEU> `
+`авторизация и график - `<https://youtu.be/Rs_OUskkmEU>
